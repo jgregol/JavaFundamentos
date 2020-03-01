@@ -1,9 +1,10 @@
-package br.com.gregol.fundamentos.conceitosbasicos.exercicios;
+package br.com.gregol.fundamentos.exercicios.operadores;
 
 /**
- * @author Gregol Dado o código abaixo, complete-o escrevendo o resultado das
- *         seguintes operações: (x=true; y=true; z=false) a. x && x; b. x && y;
- *         c. y || z; d. y || x; e. !z; f. !z && x; g. z ^ x; h. x ^ y;
+ * @author Gregol 
+ *  Dado o código abaixo, complete-o escrevendo o resultado das
+ *  seguintes operações: (x=true; y=true; z=false) a. x && x; b. x && y;
+ *  c. y || z; d. y || x; e. !z; f. !z && x; g. z ^ x; h. x ^ y;
  */
 
 public class Exercicio01 {
