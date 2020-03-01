@@ -1,4 +1,4 @@
-package br.com.gregol.fundamentos.exercicios.loopswhile;
+package br.com.gregol.fundamentos.exercicios.condicionalif;
 
 import java.util.Scanner;
 
